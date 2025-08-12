@@ -1,4 +1,4 @@
-# Biblioteca Virtual — Marcos Roa Junior
+# Biblioteca Virtual — Marcos Roa Junior - phpMyAdmin
 
 > Atividade em desenvolvimento para reproduzir uma **biblioteca virtual**.  
 > Os primeiros passos começaram pela modelagem e implementação do **banco de dados**.
